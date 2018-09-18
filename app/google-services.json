@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "609499114174",
+    "firebase_url": "https://health-app-2bdba.firebaseio.com",
+    "project_id": "health-app-2bdba",
+    "storage_bucket": "health-app-2bdba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609499114174:android:2a351591ed63164f",
+        "android_client_info": {
+          "package_name": "com.example.ejesh.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609499114174-kogcmg0s9fd96lmn03mgoevj6k72kv3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNm1ebfEnaBD1C6NxZVAErX5RDcdfl1iA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
